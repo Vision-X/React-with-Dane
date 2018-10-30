@@ -1,7 +1,7 @@
 import React, { Component, Fragment } from 'react';
 import './App.css';
 import RickandMorty from './RickandMorty.jsx';
-import Characters from './Characters.jsx';
+// import Characters from './Characters.jsx';
 import { Link } from 'react-router-dom';
 
 class App extends Component {
